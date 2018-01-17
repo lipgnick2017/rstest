@@ -1,10 +1,12 @@
 # rstest
 
 
-git clone
-#dowload the tomee container
-mvnw tomee:build
-#build and run
+1. git clone  https://github.com/lipgnick2017/rstest.git 
+
+2. #dowload the tomee container
+  mvnw tomee:build
+
+3. #build and run
 mvnw package tomee:run
 
-#visit the application at http://localhost:8080/rstest/index.html
+4. #visit the application at http://localhost:8080/rstest/index.html
