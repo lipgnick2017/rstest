@@ -10,3 +10,7 @@
 #  mvnw package tomee:run
 
 # 4. #visit the application at http://localhost:8080/rstest/index.html
+
+
+# 5. if you changed some codes,  then run it like this:
+# mvnw clean package tomee:run
